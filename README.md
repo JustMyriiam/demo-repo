@@ -6,3 +6,7 @@ a repo for testing
 ## Subheader
 
 more text.
+
+
+# local dev
+1. open index!;html in your browser
