@@ -10,3 +10,6 @@ more text.
 
 # local dev
 1. open index!;html in your browser
+
+# i am bored 
+how u feeling today ?
